@@ -1,0 +1,59 @@
+ /*******comento*****/
+/*****GENERAL****/
+ body{
+ 	font-family: Corbel,Arial,sens-serif;
+ 	margin: 0;
+ }
+ 
+/*****header****/
+
+#header{
+	background-color: green;
+
+} 
+  a{
+ 	color:#000000 ;
+ 	text-decoration: none;
+}
+
+h1 {
+ 	font-size: 30px;
+ 	margin: 0;
+ 	text-align: center;
+ 	padding: 15px 0 0 0;
+ 	color: #ffff;
+ 	text-transform:uppercase;
+
+ 	}  
+ h2{
+ 	text-align: center;
+ 	margin: 0;
+ 	color: #ffff
+ }	
+
+ #nav{  
+ 	background-color: #599a68;
+ 	text-align: center;
+ 	list-style-type: none;	 
+   }
+
+ #nav li{
+ 	display: inline-block;
+ 	padding: 6px 8px 6px 8px;
+ }
+ #nav li a{
+ 	color: #ffff;
+ }
+ #nav li:hover {
+ 	background-color: #660033;
+ }
+
+ /********content******/
+#content{
+	 width: 600PX;
+	 margin: 30px auto;
+	 
+	}	
+#content h4{
+	border-bottom:#599a68 solid; 
+}
